@@ -92,12 +92,7 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
-.idea/algo.iml
-.idea/checkstyle-idea.xml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+.idea/**
 
 # Ignore Gradle build output directory
 build
